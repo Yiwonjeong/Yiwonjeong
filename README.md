@@ -14,6 +14,3 @@
 
 #
 
-![스크린샷 2023-05-02 오전 9 35 19](https://user-images.githubusercontent.com/110754810/235555285-937f9aef-59cc-4ab5-acc4-0000d2cdeeee.png)
-![스크린샷 2023-05-02 오전 9 35 34](https://user-images.githubusercontent.com/110754810/235555282-c94f80cb-6ff6-448e-bc21-8d0b7ef7a2ef.png)
-
